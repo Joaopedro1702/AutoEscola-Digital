@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as ps
 
+#Esse projeto com framework em streamlit é pra ser o basico do sistema
+#Cadastro de professores e alunos
 st.set_page_config(
     page_title="Auto Escola Digital",
     page_icon="📊",
